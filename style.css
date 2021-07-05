@@ -48,7 +48,7 @@ h3{
     margin-bottom:150px;
 }
 
-.dream-big{
+.middle-bg{
     background-image:url(Background/7.png);
     background-repeat: no-repeat;
     background-position-x: 5px;;
@@ -71,4 +71,15 @@ h3{
 
 #space{
     margin-top: 100px;
+}
+
+h2{
+    text-align: center;
+}
+
+.third-container{
+    text-align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
 }
