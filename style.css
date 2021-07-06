@@ -45,7 +45,8 @@ h3{
 
 .flexible-container{
     display: flex;
-    margin-bottom:150px;
+    margin-bottom:50px;
+    margin-top: 10px;
 }
 
 .middle-bg{
@@ -112,4 +113,36 @@ h2{
     box-shadow: 10px 10px 50px gray;
 }
 
+.last-div{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
 
+#white{
+    color: white;
+}
+
+.gray{
+    color:rgb(126, 105, 105);
+}
+
+.second-last{
+    text-align: center;
+    margin:30px 100px;
+    border: 50px white;
+    border-radius: 25px;
+    padding: 30px 50px 30px 30px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.small-div{
+    width: 50%;
+}
+
+.larger{
+    font-size: xx-large;
+    font-weight: bolder;
+}
